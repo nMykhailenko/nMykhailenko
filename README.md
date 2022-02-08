@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Nikita Mykhailenko
-[![](https://img.shields.io/badge/-@elfocrash-%23181717?style=flat-square&logo=github)](https://github.com/nMykhailenko)
+[![](https://img.shields.io/badge/-@nMykhailenko-%23181717?style=flat-square&logo=github)](https://github.com/nMykhailenko)
 [![](https://img.shields.io/badge/-Nikita%20Mykhailenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikita-mykhailenko/)](https://www.linkedin.com/in/nikita-mykhailenko/)
 
 <!--
