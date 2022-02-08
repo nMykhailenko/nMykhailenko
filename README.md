@@ -2,6 +2,8 @@
 [![](https://img.shields.io/badge/-@nMykhailenko-%23181717?style=flat-square&logo=github)](https://github.com/nMykhailenko)
 [![](https://img.shields.io/badge/-Nikita%20Mykhailenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikita-mykhailenko/)](https://www.linkedin.com/in/nikita-mykhailenko/)
 
+I'm forward-thinking Cloud Software Engineer MS Azure Certified Solution Architect
+
 <!--
 **nMykhailenko/nMykhailenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
